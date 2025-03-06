@@ -21,7 +21,7 @@ body{
     overflow-x: hidden;
     background-color: black;
     color: white;
-    animation: fadeIn 1.5s ease-out;
+    animation: fadeIn 1.3s ease-out;
 }
 header{
     margin-top: 20px;
@@ -36,14 +36,14 @@ header{
     filter: drop-shadow(10px);
     align-items: center;
     z-index: 100;
-    animation: fadeIn 1.5s ease-out;
+    animation: fadeIn 1.3s ease-out;
 }
 .Logo{
     font-size: 3rem;
     color: #2b9eb3;
     font-weight: 800;
     cursor: pointer;
-    transform: 0.5s ease;
+    transform: 0.3s ease;
 }
 .Logo:hover{
     color: white;
@@ -61,7 +61,7 @@ header{
     font-weight: 500;
     transition: 0.3 ease;
     border-bottom: 3px solid transparent ;
-    animation: fadeIn 1.5s ease-out;
+    animation: fadeIn 1.3s ease-out;
 }
 .navbar a:hover,
 nav a.active {
@@ -128,7 +128,7 @@ nav a.active {
     align-items: center;
     gap: 8rem;
     background-color: black;
-    animation: fadeIn 1.5s ease-out;
+    animation: fadeIn 1.3s ease-out;
     margin-top: 100px;
    
 }
